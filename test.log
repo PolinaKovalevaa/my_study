@@ -1,0 +1,250 @@
+(standard input):34789:07-09 23:40:17.099  2751  2751 D Launcher.CellLayout: touch item:ShortcutInfo, id=634, itemType=0, user=UserHandle{0}, mIconType=0, pkgName=com.android.todolist, className=com.android.todolist.MainActivity, screenId=16, container=-100, cellX=3, cellY=3, spanX=1, spanY=1, isLandscapePos=false
+(standard input):34822:07-09 23:40:17.164  2004  4582 I ActivityTaskManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.todolist/.MainActivity bnds=[842,948][1010,1116] (has extras)} from uid 10037
+(standard input):34833:07-09 23:40:17.244  1362  2544 D OemNetd : setPidForPackage: packageName=com.android.todolist, pid=21657, pid=10159
+(standard input):34834:07-09 23:40:17.245  2004  2204 I ActivityManager: Start proc 21657:com.android.todolist/u0a159 for activity {com.android.todolist/com.android.todolist.MainActivity} caller=com.miui.home
+(standard input):34840:07-09 23:40:17.340  3928 19182 I ProcessMonitor: onForegroundInfoChanged: ForegroundInfo{mForegroundPackageName='com.android.todolist', mForegroundUid=10159, mForegroundPid=21657, mLastForegroundPackageName='com.miui.home', mLastForegroundUid=10037, mLastForegroundPid=2751, mMultiWindowForegroundPackageName='null', mMultiWindowForegroundUid=-1, mFlags=1}
+(standard input):34841:07-09 23:40:17.340  3928 19182 I GameBoosterService: onForegroundInfoChanged: Cur=com.android.todolist	 last=com.miui.home
+(standard input):34842:07-09 23:40:17.341  8324  8343 I GST     : forePkg: com.android.todolist, preForePkg: com.miui.home
+(standard input):34844:07-09 23:40:17.346  3928 19182 D GameBoosterService: onGameStatusChange foreground:ForegroundInfo{mForegroundPackageName='com.android.todolist', mForegroundUid=10159, mForegroundPid=21657, mLastForegroundPackageName='com.miui.home', mLastForegroundUid=10037, mLastForegroundPid=2751, mMultiWindowForegroundPackageName='null', mMultiWindowForegroundUid=-1, mFlags=1}
+(standard input):34892:07-09 23:40:17.471 21657 21678 E Perf    : Fail to get file list com.android.todolist
+(standard input):34897:07-09 23:40:17.472 21657 21678 E Perf    : Fail to get file list com.android.todolist
+(standard input):34909:07-09 23:40:17.533 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@f4b69e2
+(standard input):34910:07-09 23:40:17.536 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@f4b69e2
+(standard input):34914:07-09 23:40:17.542 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@f4b69e2
+(standard input):34915:07-09 23:40:17.545 21657 21657 I chatty  : uid=10159(com.android.todolist) identical 27 lines
+(standard input):34916:07-09 23:40:17.547 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@f4b69e2
+(standard input):34919:07-09 23:40:17.554 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@f4b69e2
+(standard input):34923:07-09 23:40:17.559 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@f4b69e2
+(standard input):34924:07-09 23:40:17.561 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@f4b69e2
+(standard input):34926:07-09 23:40:17.581 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@f4b69e2
+(standard input):34927:07-09 23:40:17.586 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@f4b69e2
+(standard input):34929:07-09 23:40:17.596 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@f4b69e2
+(standard input):34953:07-09 23:40:17.614 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@f4b69e2
+(standard input):34954:07-09 23:40:17.620 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@f4b69e2
+(standard input):34965:07-09 23:40:17.626 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@f4b69e2
+(standard input):34968:07-09 23:40:17.638 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@f4b69e2
+(standard input):34969:07-09 23:40:17.638   770   770 E Layer   : [Surface(name=AppWindowToken{67f04e1 token=Token{aa81e48 ActivityRecord{69fb0eb u0 com.android.todolist/.MainActivity t54}}})/@0x34f17ea - animation-leash#0] No local sync point found
+(standard input):34970:07-09 23:40:17.638   770   770 E Layer   : [Surface(name=AppWindowToken{67f04e1 token=Token{aa81e48 ActivityRecord{69fb0eb u0 com.android.todolist/.MainActivity t54}}})/@0x34f17ea - animation-leash#0] No local sync point found
+(standard input):34973:07-09 23:40:17.640 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@f4b69e2
+(standard input):34974:07-09 23:40:17.653 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@f4b69e2
+(standard input):34976:07-09 23:40:17.718  2751  2751 D RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+(standard input):34977:07-09 23:40:17.720 21657 21657 W Looper  : Slow Looper main: Activity com.android.todolist/.MainActivity is 342ms late (wall=0ms running=0ms ClientTransaction{ callbacks=[android.app.servertransaction.TopResumedActivityChangeItem] }) because of 2 msg, msg 1 took 120ms (seq=2 running=81ms runnable=2ms io=24ms late=2ms h=android.app.ActivityThread$H w=110), msg 2 took 250ms (seq=3 running=208ms runnable=10ms io=13ms late=92ms h=android.app.ActivityThread$H w=159)
+(standard input):34979:07-09 23:40:17.747 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@f4b69e2
+(standard input):34980:07-09 23:40:17.780 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@f4b69e2
+(standard input):34995:07-09 23:40:17.817 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@f4b69e2
+(standard input):34996:07-09 23:40:17.823 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@f4b69e2
+(standard input):34997:07-09 23:40:17.859 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@f4b69e2
+(standard input):34998:07-09 23:40:17.866 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@f4b69e2
+(standard input):34999:07-09 23:40:17.874 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@f4b69e2
+(standard input):35001:07-09 23:40:17.920  2004  2148 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{69fb0eb u0 com.android.todolist/.MainActivity t54} time:14448741
+(standard input):35011:07-09 23:40:19.414 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@f4b69e2
+(standard input):35013:07-09 23:40:19.438  2004  4361 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10159
+(standard input):35014:07-09 23:40:19.424 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@f4b69e2
+(standard input):35015:07-09 23:40:19.469 21657 21657 I Toast   : Show toast from OpPackageName:com.android.todolist, PackageName:com.android.todolist
+(standard input):35016:07-09 23:40:19.476  2004  2455 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 21657
+(standard input):35022:07-09 23:40:19.535 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.ListActivity@cea2c91
+(standard input):35023:07-09 23:40:19.624 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.ListActivity@cea2c91
+(standard input):35024:07-09 23:40:19.664  2751  2751 D RecentsImpl: mActivityStateObserver com.android.todolist.ListActivity
+(standard input):35028:07-09 23:40:20.245  2004  2148 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{6f0d34a u0 com.android.todolist/.ListActivity t54} time:14451066
+(standard input):35043:07-09 23:40:21.465  2004  2455 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@4871b76
+(standard input):35086:07-09 23:40:23.856  8324  8343 I GST     : forePkg: com.miui.home, preForePkg: com.android.todolist
+(standard input):35087:07-09 23:40:23.855  3928  3988 I ProcessMonitor: onForegroundInfoChanged: ForegroundInfo{mForegroundPackageName='com.miui.home', mForegroundUid=10037, mForegroundPid=2751, mLastForegroundPackageName='com.android.todolist', mLastForegroundUid=10159, mLastForegroundPid=21657, mMultiWindowForegroundPackageName='null', mMultiWindowForegroundUid=-1, mFlags=0}
+(standard input):35088:07-09 23:40:23.857  3928  3988 I GameBoosterService: onForegroundInfoChanged: Cur=com.miui.home	 last=com.android.todolist
+(standard input):35089:07-09 23:40:23.860  3928  3988 D GameBoosterService: onGameStatusChange foreground:ForegroundInfo{mForegroundPackageName='com.miui.home', mForegroundUid=10037, mForegroundPid=2751, mLastForegroundPackageName='com.android.todolist', mLastForegroundUid=10159, mLastForegroundPid=21657, mMultiWindowForegroundPackageName='null', mMultiWindowForegroundUid=-1, mFlags=0}
+(standard input):35247:07-09 23:40:24.374   770   770 E Layer   : [Surface(name=AppWindowToken{49143d8 token=Token{a26b2bb ActivityRecord{6f0d34a u0 com.android.todolist/.ListActivity t54}}})/@0x5a497b4 - animation-leash#0] No local sync point found
+(standard input):35248:07-09 23:40:24.374   770   770 E Layer   : [Surface(name=AppWindowToken{49143d8 token=Token{a26b2bb ActivityRecord{6f0d34a u0 com.android.todolist/.ListActivity t54}}})/@0x5a497b4 - animation-leash#0] No local sync point found
+(standard input):35259:07-09 23:40:24.585  2751  3140 W RecentsModel: getTaskInfoIgnoreHomeAndFreeform   taskInfo=ComponentInfo{com.android.todolist/com.android.todolist.MainActivity}
+(standard input):35415:07-09 23:40:30.099  2751  2751 D Launcher.CellLayout: touch item:ShortcutInfo, id=634, itemType=0, user=UserHandle{0}, mIconType=0, pkgName=com.android.todolist, className=com.android.todolist.MainActivity, screenId=16, container=-100, cellX=3, cellY=3, spanX=1, spanY=1, isLandscapePos=false
+(standard input):35484:07-09 23:40:30.801  2751  2751 D Launcher.CellLayout: touch item:ShortcutInfo, id=634, itemType=0, user=UserHandle{0}, mIconType=0, pkgName=com.android.todolist, className=com.android.todolist.MainActivity, screenId=16, container=-100, cellX=3, cellY=3, spanX=1, spanY=1, isLandscapePos=false
+(standard input):35517:07-09 23:40:30.863  2004  2627 I ActivityTaskManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.todolist/.MainActivity bnds=[842,948][1010,1116] (has extras)} from uid 10037
+(standard input):35521:07-09 23:40:30.893  3928  3988 I ProcessMonitor: onForegroundInfoChanged: ForegroundInfo{mForegroundPackageName='com.android.todolist', mForegroundUid=10159, mForegroundPid=21657, mLastForegroundPackageName='com.miui.home', mLastForegroundUid=10037, mLastForegroundPid=2751, mMultiWindowForegroundPackageName='null', mMultiWindowForegroundUid=-1, mFlags=0}
+(standard input):35522:07-09 23:40:30.893  3928  3988 I GameBoosterService: onForegroundInfoChanged: Cur=com.android.todolist	 last=com.miui.home
+(standard input):35523:07-09 23:40:30.893  8324  8343 I GST     : forePkg: com.android.todolist, preForePkg: com.miui.home
+(standard input):35526:07-09 23:40:30.900  3928  3988 D GameBoosterService: onGameStatusChange foreground:ForegroundInfo{mForegroundPackageName='com.android.todolist', mForegroundUid=10159, mForegroundPid=21657, mLastForegroundPackageName='com.miui.home', mLastForegroundUid=10037, mLastForegroundPid=2751, mMultiWindowForegroundPackageName='null', mMultiWindowForegroundUid=-1, mFlags=0}
+(standard input):35555:07-09 23:40:30.925  2751  2751 D RecentsImpl: mActivityStateObserver com.android.todolist.ListActivity
+(standard input):35606:07-09 23:40:31.178  2004  4131 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{6f0d34a u0 com.android.todolist/.ListActivity t54} time:14461999
+(standard input):35615:07-09 23:40:31.193   770   770 E Layer   : [Surface(name=AppWindowToken{49143d8 token=Token{a26b2bb ActivityRecord{6f0d34a u0 com.android.todolist/.ListActivity t54}}})/@0x5a497b4 - animation-leash#0] No local sync point found
+(standard input):35616:07-09 23:40:31.193   770   770 E Layer   : [Surface(name=AppWindowToken{49143d8 token=Token{a26b2bb ActivityRecord{6f0d34a u0 com.android.todolist/.ListActivity t54}}})/@0x5a497b4 - animation-leash#0] No local sync point found
+(standard input):35701:07-09 23:40:45.510  2004  2455 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10159
+(standard input):35703:07-09 23:40:45.539  2004  4139 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 21657
+(standard input):35706:07-09 23:40:45.566 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@3c0c9eb
+(standard input):35707:07-09 23:40:45.614 21657 21657 I chatty  : uid=10159(com.android.todolist) identical 39 lines
+(standard input):35708:07-09 23:40:45.615 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@3c0c9eb
+(standard input):35709:07-09 23:40:45.655  2751  2751 D RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+(standard input):35710:07-09 23:40:45.668 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@3c0c9eb
+(standard input):35714:07-09 23:40:45.787 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@3c0c9eb
+(standard input):35718:07-09 23:40:46.315  2004  2148 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{25dc573 u0 com.android.todolist/.MainActivity t54} time:14477136
+(standard input):35731:07-09 23:40:48.962  8324  8343 I GST     : forePkg: com.miui.home, preForePkg: com.android.todolist
+(standard input):35732:07-09 23:40:48.963  3928 14737 I ProcessMonitor: onForegroundInfoChanged: ForegroundInfo{mForegroundPackageName='com.miui.home', mForegroundUid=10037, mForegroundPid=2751, mLastForegroundPackageName='com.android.todolist', mLastForegroundUid=10159, mLastForegroundPid=21657, mMultiWindowForegroundPackageName='null', mMultiWindowForegroundUid=-1, mFlags=0}
+(standard input):35733:07-09 23:40:48.963  3928 14737 I GameBoosterService: onForegroundInfoChanged: Cur=com.miui.home	 last=com.android.todolist
+(standard input):35734:07-09 23:40:48.964  3928 14737 D GameBoosterService: onGameStatusChange foreground:ForegroundInfo{mForegroundPackageName='com.miui.home', mForegroundUid=10037, mForegroundPid=2751, mLastForegroundPackageName='com.android.todolist', mLastForegroundUid=10159, mLastForegroundPid=21657, mMultiWindowForegroundPackageName='null', mMultiWindowForegroundUid=-1, mFlags=0}
+(standard input):35850:07-09 23:40:49.449   770   770 E Layer   : [Surface(name=AppWindowToken{ddf40a9 token=Token{e084c30 ActivityRecord{25dc573 u0 com.android.todolist/.MainActivity t54}}})/@0xbfd7148 - animation-leash#0] No local sync point found
+(standard input):35854:07-09 23:40:49.465   770   770 E Layer   : [Surface(name=AppWindowToken{ddf40a9 token=Token{e084c30 ActivityRecord{25dc573 u0 com.android.todolist/.MainActivity t54}}})/@0xbfd7148 - animation-leash#0] No local sync point found
+(standard input):37755:07-09 23:42:38.634  2751  6145 W RecentsModel: getTaskInfoIgnoreHomeAndFreeform   taskInfo=ComponentInfo{com.android.todolist/com.android.todolist.MainActivity}
+(standard input):37863:07-09 23:42:39.512  3928 19182 I ProcessMonitor: onForegroundInfoChanged: ForegroundInfo{mForegroundPackageName='com.android.todolist', mForegroundUid=10159, mForegroundPid=21657, mLastForegroundPackageName='com.miui.home', mLastForegroundUid=10037, mLastForegroundPid=2751, mMultiWindowForegroundPackageName='null', mMultiWindowForegroundUid=-1, mFlags=0}
+(standard input):37864:07-09 23:42:39.513  3928 19182 I GameBoosterService: onForegroundInfoChanged: Cur=com.android.todolist	 last=com.miui.home
+(standard input):37865:07-09 23:42:39.513  8324  8394 I GST     : forePkg: com.android.todolist, preForePkg: com.miui.home
+(standard input):37868:07-09 23:42:39.520  3928 19182 D GameBoosterService: onGameStatusChange foreground:ForegroundInfo{mForegroundPackageName='com.android.todolist', mForegroundUid=10159, mForegroundPid=21657, mLastForegroundPackageName='com.miui.home', mLastForegroundUid=10037, mLastForegroundPid=2751, mMultiWindowForegroundPackageName='null', mMultiWindowForegroundUid=-1, mFlags=0}
+(standard input):37888:07-09 23:42:39.616  2751  2751 D RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+(standard input):37892:07-09 23:42:39.869  2004  4361 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{25dc573 u0 com.android.todolist/.MainActivity t54} time:14590690
+(standard input):37896:07-09 23:42:39.885   770   770 E Layer   : [Surface(name=AppWindowToken{ddf40a9 token=Token{e084c30 ActivityRecord{25dc573 u0 com.android.todolist/.MainActivity t54}}})/@0xbfd7148 - animation-leash#0] No local sync point found
+(standard input):37897:07-09 23:42:39.885   770   770 E Layer   : [Surface(name=AppWindowToken{ddf40a9 token=Token{e084c30 ActivityRecord{25dc573 u0 com.android.todolist/.MainActivity t54}}})/@0xbfd7148 - animation-leash#0] No local sync point found
+(standard input):37915:07-09 23:42:40.640 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@3c0c9eb
+(standard input):37916:07-09 23:42:40.642 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@3c0c9eb
+(standard input):37945:07-09 23:42:42.125 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@3c0c9eb
+(standard input):38015:07-09 23:42:45.489  2004  2627 E InputDispatcher: Window handle Window{2be0faa u0 com.android.todolist/com.android.todolist.MainActivity} has no registered input channel
+(standard input):38016:07-09 23:42:45.504  2004  4575 E InputDispatcher: Window handle Window{2be0faa u0 com.android.todolist/com.android.todolist.MainActivity} has no registered input channel
+(standard input):38017:07-09 23:42:45.513 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@3c0c9eb
+(standard input):38019:07-09 23:42:45.515 21657 21657 I chatty  : uid=10159(com.android.todolist) identical 44 lines
+(standard input):38020:07-09 23:42:45.521 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@3c0c9eb
+(standard input):38026:07-09 23:42:47.329 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@3c0c9eb
+(standard input):38028:07-09 23:42:47.356  2004  4361 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10159
+(standard input):38029:07-09 23:42:47.340 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@3c0c9eb
+(standard input):38035:07-09 23:42:47.383 21657 21657 I Toast   : Show toast from OpPackageName:com.android.todolist, PackageName:com.android.todolist
+(standard input):38036:07-09 23:42:47.387  2004  4361 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 21657
+(standard input):38045:07-09 23:42:47.445 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.ListActivity@b6bf242
+(standard input):38046:07-09 23:42:47.447 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.ListActivity@b6bf242
+(standard input):38050:07-09 23:42:47.474 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.ListActivity@b6bf242
+(standard input):38051:07-09 23:42:47.475 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.ListActivity@b6bf242
+(standard input):38052:07-09 23:42:47.477 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.ListActivity@b6bf242
+(standard input):38053:07-09 23:42:47.478 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.ListActivity@b6bf242
+(standard input):38054:07-09 23:42:47.503 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.ListActivity@b6bf242
+(standard input):38055:07-09 23:42:47.509 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.ListActivity@b6bf242
+(standard input):38057:07-09 23:42:47.549  2751  2751 D RecentsImpl: mActivityStateObserver com.android.todolist.ListActivity
+(standard input):38062:07-09 23:42:47.613  2004  2202 I ActivityTaskManager: Displayed com.android.todolist/.ListActivity: +248ms
+(standard input):38072:07-09 23:42:48.105  2004  2148 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{b99ab0c u0 com.android.todolist/.ListActivity t54} time:14598926
+(standard input):38085:07-09 23:42:48.951  2004  2455 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10159
+(standard input):38092:07-09 23:42:48.979  2004  4575 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 21657
+(standard input):38098:07-09 23:42:49.001 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@4a22e40
+(standard input):38099:07-09 23:42:49.045 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@4a22e40
+(standard input):38100:07-09 23:42:49.075  2751  2751 D RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+(standard input):38101:07-09 23:42:49.090 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@4a22e40
+(standard input):38105:07-09 23:42:49.210 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@4a22e40
+(standard input):38106:07-09 23:42:49.243  2004  2202 I ActivityTaskManager: Displayed com.android.todolist/.MainActivity: +286ms
+(standard input):38107:07-09 23:42:49.373  2004  4361 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@6c65d2b
+(standard input):38108:07-09 23:42:49.723  2004  2148 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{e5997be u0 com.android.todolist/.MainActivity t54} time:14600544
+(standard input):38702:07-09 23:43:50.883 17663 17703 D PowerCheckerService: foreground, uid = 10159, app = com.android.todolist
+(standard input):40427:07-09 23:51:28.461 17663 17703 D PowerCheckerService: foreground, uid = 10159, app = com.android.todolist
+(standard input):41017:07-09 23:51:32.117 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@1349126
+(standard input):41018:07-09 23:51:32.134 21657 21657 I chatty  : uid=10159(com.android.todolist) identical 27 lines
+(standard input):41019:07-09 23:51:32.135 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@1349126
+(standard input):41032:07-09 23:51:32.154 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@1349126
+(standard input):41034:07-09 23:51:32.161 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@1349126
+(standard input):41043:07-09 23:51:32.186 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@1349126
+(standard input):41044:07-09 23:51:32.194 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@1349126
+(standard input):41046:07-09 23:51:32.225 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@1349126
+(standard input):41047:07-09 23:51:32.226 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@1349126
+(standard input):41049:07-09 23:51:32.233 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@1349126
+(standard input):41072:07-09 23:51:32.278  2751  2751 D RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+(standard input):41074:07-09 23:51:32.288 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@1349126
+(standard input):41075:07-09 23:51:32.291 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@1349126
+(standard input):41077:07-09 23:51:32.299 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@1349126
+(standard input):41079:07-09 23:51:32.317 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@1349126
+(standard input):41085:07-09 23:51:32.368 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@1349126
+(standard input):41087:07-09 23:51:32.410 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@1349126
+(standard input):41090:07-09 23:51:32.423 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@1349126
+(standard input):41091:07-09 23:51:32.425 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@1349126
+(standard input):41095:07-09 23:51:32.427 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@1349126
+(standard input):41097:07-09 23:51:32.429 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@1349126
+(standard input):41109:07-09 23:51:32.473  2004  2148 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{e5997be u0 com.android.todolist/.MainActivity t54} time:15123294
+(standard input):41112:07-09 23:51:32.482  2004  2148 I WindowManager: Screen frozen for +899ms due to Window{e5db9ea u0 com.android.todolist/com.android.todolist.MainActivity}
+(standard input):41654:07-09 23:51:35.519 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):41657:07-09 23:51:35.521 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):41666:07-09 23:51:35.526 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):41667:07-09 23:51:35.529 21657 21657 I chatty  : uid=10159(com.android.todolist) identical 2 lines
+(standard input):41668:07-09 23:51:35.533 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):41670:07-09 23:51:35.534 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):41671:07-09 23:51:35.535 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):41672:07-09 23:51:35.540 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):41673:07-09 23:51:35.542 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):41675:07-09 23:51:35.546 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):41677:07-09 23:51:35.561 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):41678:07-09 23:51:35.565 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):41679:07-09 23:51:35.569 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):41681:07-09 23:51:35.572 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):41682:07-09 23:51:35.573 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):41683:07-09 23:51:35.574 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):41684:07-09 23:51:35.613  2751  2751 D RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+(standard input):41686:07-09 23:51:35.630 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):41687:07-09 23:51:35.631 21657 21657 I chatty  : uid=10159(com.android.todolist) identical 18 lines
+(standard input):41688:07-09 23:51:35.634 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):41691:07-09 23:51:35.640 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):41692:07-09 23:51:35.643 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):41694:07-09 23:51:35.649 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):41695:07-09 23:51:35.660 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):41697:07-09 23:51:35.694 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):41698:07-09 23:51:35.728 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):41699:07-09 23:51:35.733 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):41700:07-09 23:51:35.739 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):41701:07-09 23:51:35.742 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):41703:07-09 23:51:35.766  2004  2148 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{e5997be u0 com.android.todolist/.MainActivity t54} time:15126587
+(standard input):41704:07-09 23:51:35.780  2004  2148 I WindowManager: Screen frozen for +491ms due to Window{3f31986 u0 com.android.todolist/com.android.todolist.MainActivity}
+(standard input):41717:07-09 23:51:38.687 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):41718:07-09 23:51:38.690 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):41800:07-09 23:51:40.003 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):41888:07-09 23:51:42.280  2004  4852 E InputDispatcher: Window handle Window{321f2d4 u0 com.android.todolist/com.android.todolist.MainActivity} has no registered input channel
+(standard input):41889:07-09 23:51:42.296  2004  4359 E InputDispatcher: Window handle Window{321f2d4 u0 com.android.todolist/com.android.todolist.MainActivity} has no registered input channel
+(standard input):41890:07-09 23:51:42.296 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):41892:07-09 23:51:42.298 21657 21657 I chatty  : uid=10159(com.android.todolist) identical 1 line
+(standard input):41893:07-09 23:51:42.303 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):44393:07-09 23:52:54.726 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):44394:07-09 23:52:54.727 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):44403:07-09 23:52:55.734 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):44532:07-09 23:52:57.438  2004  4359 E InputDispatcher: Window handle Window{b7f0bfb u0 com.android.todolist/com.android.todolist.MainActivity} has no registered input channel
+(standard input):44533:07-09 23:52:57.455  2004  4852 E InputDispatcher: Window handle Window{b7f0bfb u0 com.android.todolist/com.android.todolist.MainActivity} has no registered input channel
+(standard input):44534:07-09 23:52:57.458 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):44535:07-09 23:52:57.460 21657 21657 I chatty  : uid=10159(com.android.todolist) identical 1 line
+(standard input):44536:07-09 23:52:57.464 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):44682:07-09 23:53:01.283 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):44685:07-09 23:53:01.332 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@760414a
+(standard input):44687:07-09 23:53:01.345  2004  4852 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10159
+(standard input):44708:07-09 23:53:01.369 21657 21657 I Toast   : Show toast from OpPackageName:com.android.todolist, PackageName:com.android.todolist
+(standard input):44709:07-09 23:53:01.374  2004  4561 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 21657
+(standard input):44720:07-09 23:53:01.421 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.ListActivity@ca558e0
+(standard input):44721:07-09 23:53:01.460 21657 21657 I chatty  : uid=10159(com.android.todolist) identical 7 lines
+(standard input):44722:07-09 23:53:01.463 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.ListActivity@ca558e0
+(standard input):44738:07-09 23:53:01.495  2751  2751 D RecentsImpl: mActivityStateObserver com.android.todolist.ListActivity
+(standard input):44747:07-09 23:53:01.561  2004  2202 I ActivityTaskManager: Displayed com.android.todolist/.ListActivity: +208ms
+(standard input):44786:07-09 23:53:02.056  2004  2148 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{357d4f2 u0 com.android.todolist/.ListActivity t54} time:15212877
+(standard input):44796:07-09 23:53:02.677  2004  4561 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10159
+(standard input):44802:07-09 23:53:02.703  2004  4359 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 21657
+(standard input):44808:07-09 23:53:02.730 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@218c489
+(standard input):44809:07-09 23:53:02.772 21657 21657 I chatty  : uid=10159(com.android.todolist) identical 15 lines
+(standard input):44810:07-09 23:53:02.773 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@218c489
+(standard input):44811:07-09 23:53:02.796  2751  2751 D RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+(standard input):44812:07-09 23:53:02.808 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@218c489
+(standard input):44816:07-09 23:53:02.894 21657 21657 I chatty  : uid=10159(com.android.todolist) identical 33 lines
+(standard input):44817:07-09 23:53:02.896 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@218c489
+(standard input):44819:07-09 23:53:02.929  2004  2202 I ActivityTaskManager: Displayed com.android.todolist/.MainActivity: +245ms
+(standard input):44821:07-09 23:53:03.376  2004  4852 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@27cef49
+(standard input):44824:07-09 23:53:03.422  2004  2148 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{4022cb4 u0 com.android.todolist/.MainActivity t54} time:15214243
+(standard input):44837:07-09 23:53:04.023 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@218c489
+(standard input):44839:07-09 23:53:04.036  2004  2455 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10159
+(standard input):44840:07-09 23:53:04.024 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@218c489
+(standard input):44846:07-09 23:53:04.061 21657 21657 I Toast   : Show toast from OpPackageName:com.android.todolist, PackageName:com.android.todolist
+(standard input):44847:07-09 23:53:04.065  2004  2455 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 21657
+(standard input):44856:07-09 23:53:04.115 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.ListActivity@1130594
+(standard input):44857:07-09 23:53:04.160 21657 21657 I chatty  : uid=10159(com.android.todolist) identical 7 lines
+(standard input):44858:07-09 23:53:04.162 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.ListActivity@1130594
+(standard input):44859:07-09 23:53:04.188  2751  2751 D RecentsImpl: mActivityStateObserver com.android.todolist.ListActivity
+(standard input):44860:07-09 23:53:04.201 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.ListActivity@1130594
+(standard input):44864:07-09 23:53:04.213 21657 21657 I chatty  : uid=10159(com.android.todolist) identical 4 lines
+(standard input):44865:07-09 23:53:04.214 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.ListActivity@1130594
+(standard input):44867:07-09 23:53:04.272  2004  2202 I ActivityTaskManager: Displayed com.android.todolist/.ListActivity: +231ms
+(standard input):44871:07-09 23:53:04.756  2004  2148 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{b1a98b u0 com.android.todolist/.ListActivity t54} time:15215577
+(standard input):44917:07-09 23:53:05.470  2004  4359 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10159
+(standard input):44938:07-09 23:53:05.496  2004  4852 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 21657
+(standard input):44946:07-09 23:53:05.518 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@672bd26
+(standard input):44947:07-09 23:53:05.562 21657 21657 I chatty  : uid=10159(com.android.todolist) identical 15 lines
+(standard input):44948:07-09 23:53:05.564 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@672bd26
+(standard input):44949:07-09 23:53:05.587  2751  2751 D RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+(standard input):44955:07-09 23:53:05.598 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@672bd26
+(standard input):44956:07-09 23:53:05.626 21657 21657 I chatty  : uid=10159(com.android.todolist) identical 16 lines
+(standard input):44957:07-09 23:53:05.628 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@672bd26
+(standard input):44962:07-09 23:53:05.653 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@672bd26
+(standard input):44963:07-09 23:53:05.668 21657 21657 I chatty  : uid=10159(com.android.todolist) identical 7 lines
+(standard input):44964:07-09 23:53:05.670 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@672bd26
+(standard input):44972:07-09 23:53:05.673 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@672bd26
+(standard input):44974:07-09 23:53:05.674 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@672bd26
+(standard input):44979:07-09 23:53:05.676 21657 21657 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@672bd26
+(standard input):44983:07-09 23:53:05.682 21657 21
